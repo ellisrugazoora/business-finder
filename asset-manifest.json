@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/business-finder/static/css/main.073c9b0a.css",
+    "main.js": "/business-finder/static/js/main.dd9174d3.js",
+    "static/js/512.29535e63.chunk.js": "/business-finder/static/js/512.29535e63.chunk.js",
+    "static/media/logo.svg": "/business-finder/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/business-finder/index.html",
+    "main.073c9b0a.css.map": "/business-finder/static/css/main.073c9b0a.css.map",
+    "main.dd9174d3.js.map": "/business-finder/static/js/main.dd9174d3.js.map",
+    "512.29535e63.chunk.js.map": "/business-finder/static/js/512.29535e63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dd9174d3.js"
+  ]
+}
