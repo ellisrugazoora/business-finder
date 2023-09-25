@@ -2,7 +2,7 @@
   "name": "ellis-react-app2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ellisrugazoora.github.io/ellis-react-app2",
+  "homepage": "https://ellisrugazoora.github.io/business-finder",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
