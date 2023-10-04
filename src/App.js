@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import { useState } from 'react';
 
-function placeholder(type, description){ //this function should be accessible by other applications
+export function placeholder(type, description){ //this function should be accessible by other applications
   return "placeholder for: type: " + type + ", and description: " + description
 }
 
@@ -17,7 +17,7 @@ function assign_tag(placeholder_description){//this function should be accessibl
       rtrn = <input>Hello</input>
       break;
     default:
-      rtrn = <button>The default button heh</button>//you could just return the regular thing until its fully ocmplete
+      rtrn = <button>The "still no match" button, no event either</button>//you could just return the regular thing until its fully ocmplete
   }
 
   return rtrn
