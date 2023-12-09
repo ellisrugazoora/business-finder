@@ -5,7 +5,7 @@ import { useState } from 'react';
 export function placeholder(type, description){ //this function should be accessible by other applications
   return "placeholder for: type: " + type + ", and description: " + description
 }
-
+//test edit
 function assign_tag(placeholder_description){//this function should be accessible by other functions
   //console.log("The tag for: " + placeholder_description + " is ..."
   let rtrn 
