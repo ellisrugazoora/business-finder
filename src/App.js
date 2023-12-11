@@ -49,8 +49,9 @@ function App() {
         <p>{element2}</p>
         <p></p>
         {placeholder("divider", "below is the functional section")}
-        
+        {/*
         <input onClick={function(){console.log("change the definition solution parameters. (state)")}}>Change the solution parameters</input>
+        */}
         <p>The solution: a function of {competitive} and {within_resources_definition}</p>
 
         <p>
